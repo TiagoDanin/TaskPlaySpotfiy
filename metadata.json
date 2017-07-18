@@ -1,0 +1,6 @@
+{
+	"shell-version": ["3.22.2"],
+	"uuid": "TaskPlaySpotify@TiagoDanin",
+	"name": "TaskPlaySpotify",
+	"description": "Media playback controls for Spotify"
+}
